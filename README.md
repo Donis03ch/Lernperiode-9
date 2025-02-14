@@ -5,15 +5,14 @@ Grob-Planung
 
 ## Leit-Satz
 
-In meinem zweiten Projekt möchte ich... (xx Wörter)
+In der LP-9 möchte ich weiter an meinen Pokergame arbeiten.
 
 ## Arbeitspakete für 14.02.2025
 
-- [ ] Ein neues `C#`-Projekt erstellen, bei welchem ich...
-
-| Nummer | Vorbereitung | Eingabe | Erwartete Ausgabe | Erfüllt? |
-| --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
+- [ ] Es wird an den Aufträgen von M347 gearbeitet
+- [ ] =
+- [ ] =
+- [ ] evtl. Pokergame fortfahren
 
 Heute habe ich... (xx Wörter)
 
