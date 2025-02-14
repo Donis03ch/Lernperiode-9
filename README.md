@@ -11,7 +11,7 @@ In der LP-9 möchte ich weiter an meinen Cardgame arbeiten.
 
 - [ ] Aufträge & Repetition von M347
 - [x] =
-- [ ] =
+- [x] =
 - [ ] evtl. Pokergame fortfahren
 
 Heute habe ich... (xx Wörter)
