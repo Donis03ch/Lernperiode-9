@@ -10,7 +10,7 @@ In der LP-9 möchte ich weiter an meinen Cardgame arbeiten.
 ## Arbeitspakete für 14.02.2025
 
 - [ ] Aufträge & Repetition von M347
-- [ ] =
+- [x] =
 - [ ] =
 - [ ] evtl. Pokergame fortfahren
 
