@@ -19,7 +19,7 @@ Heute habe ich einige Auträge des Modules 347 bearbeitet und das ganze Thema um
 
 ## Arbeitspakete für 21.02.2025
 
-Grobe vorstellung: Arbeit an dem Cardgame
+Grobe vorstellung: Arbeit an dem Poker und ein weiteres Kartenspiel hinzufügen.
 
 - [ ] ...
 - [ ] ...
