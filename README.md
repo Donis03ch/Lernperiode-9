@@ -10,7 +10,7 @@ Grob-Planung
 
 ## Arbeitspakete für 14.02.2025
 
-- [ ] Aufträge & Repetition von M347
+- [x] Aufträge & Repetition von M347
 - [x] =
 - [x] =
 - [ ] evtl. Pokergame fortfahren
