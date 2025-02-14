@@ -5,7 +5,8 @@ Grob-Planung
 
 ## Leit-Satz
 
-In der LP-9 möchte ich weiter an meinen Cardgame arbeiten.
+*-* Aktuell stehen meine Noten in einem guten Bereich. Mein Objektiv wäre möglichst in diesem Bereich zu bleiben. </br>
+*-* In der LP-9 möchte ich weiter an meinen Cardgame arbeiten.
 
 ## Arbeitspakete für 14.02.2025
 
