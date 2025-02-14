@@ -5,7 +5,7 @@ Grob-Planung
 
 ## Leit-Satz
 
-In der LP-9 möchte ich weiter an meinen Pokergame arbeiten.
+In der LP-9 möchte ich weiter an meinen Cardgame arbeiten.
 
 ## Arbeitspakete für 14.02.2025
 
