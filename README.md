@@ -15,6 +15,13 @@ Grob-Planung
 - [x] =
 - [ ] evtl. Pokergame fortfahren
 
-Heute habe ich... (xx Wörter)
+Heute habe ich einige Auträge des Modules 347 bearbeitet und das ganze Thema um Docker nochmals repetiert. Ich fühle mich sicherer damit nach dem heutigen Tag. (26 Wörter)
 
 ## Arbeitspakete für 21.02.2025
+
+Grobe vorstellung: Arbeit an dem Cardgame
+
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
