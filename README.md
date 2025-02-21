@@ -21,7 +21,16 @@ Heute habe ich einige Auträge des Modules 347 bearbeitet und das ganze Thema um
 
 Grobe vorstellung: Arbeit an dem Poker und ein weiteres Kartenspiel hinzufügen.
 
-- [ ] ...
+- [ ] Poker.cs
+- [x] Card.cs
+- [x] Player.cs
+
+Heute habe ich an dem Pokergame die Klassen erstellt. Ich habe eine Funktion, die mit der Sprachversion 8.0 arbeitet, aber leider wurde mein Projekt mit dem .NET Framwework erstellt. Dieses Framework Template unterstützt nur die Version 7.3, was für mich nicht genügt. Ich werde mir das nächste mal kurz die Zeit nehmen, mein ganzes Projekt auf die richtige .Net Version zu kopieren. (62 Wörter)
+
+## Arbeitspakete für 28.02.2025
+
+Grobe vorstellung: Ein neues Kartenspiel hinzufügen.
+
 - [ ] ...
 - [ ] ...
 - [ ] ...
