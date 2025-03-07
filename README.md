@@ -48,10 +48,10 @@ The "Player" class holds information about each player, like their name, current
 Grobe vorstellung: ...
 
 - [x] debugging
-- [ ] poker.cs
+- [x] Cards.cs
 - [ ] ...
 
-Ich bin mit dem Poker fertig. Es gab ein Problem mit der Logik, daher musste ich mit dem Debugger ran. 
+Ich bin mit dem Cardgame fertig. Es gab ein Problem mit der Logik, daher musste ich mit dem Debugger ran. 
 
 ## Arbeitspakete für 14.03.2025
 
