@@ -31,9 +31,9 @@ Heute habe ich an dem Pokergame die Klassen erstellt. Ich habe eine Funktion, di
 
 Grobe vorstellung: Ein neues Kartenspiel hinzufügen.
 
-- [x] ...
-- [x] ...
-- [ ] ...
+- [x] ShuffleDeck 
+- [x] Main
+- [x] Player.cs
 
 I had to move my entire project to a new .NET framework because the language version 8.0 wasn't supported in the one I was using. I then spent some time looking for a new card game to add to my project. I remembered a game I used to play with my family, so I decided to go with that. </br>
 The "Main" method starts the game by welcoming players and setting up the deck of cards. The "CreateDeck" function creates a standard deck with 52 cards.
