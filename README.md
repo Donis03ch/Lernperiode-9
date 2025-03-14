@@ -57,6 +57,16 @@ Ich bin mit dem Cardgame fertig. Es gab ein Problem mit der Logik, daher musste 
 
 Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
-- [ ] React kennenlernen
+- [x] React kennenlernen
 - [ ] Die Startseite
 - [ ] =
+
+Ich habe mir einige Erklärungen zu ReactJS angesehen. Bei einer Seite versuchte ich selber mit React zu arbeiten. Ich empfinde die Syntax ähnelt der von der html. 
+
+## Arbeitspakete für 21.03.2025
+
+Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
+
+- [ ] Startseite
+- [ ] ...
+- [ ] ...
