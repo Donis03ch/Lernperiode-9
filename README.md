@@ -55,7 +55,7 @@ Ich bin mit dem Cardgame fertig. Es gab ein Problem mit der Logik, daher musste 
 
 ## Arbeitspakete für 14.03.2025
 
-Grobe vorstellung: personal portfolio
+Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
 - [ ] React kennenlernen
 - [ ] Die Startseite
