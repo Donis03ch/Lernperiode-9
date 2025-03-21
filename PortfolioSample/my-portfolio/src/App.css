@@ -1,0 +1,161 @@
+:root {
+  --background-color: #464343;
+  --primary-color: #423f40;
+  --secondary-color: #403c3c;
+  --accent-color: #FFB03B;
+  --text-color: #cfcaca;
+  --hover-color: #d60629;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+/* Grid-Layout */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  grid-template-rows: repeat(3, minmax(100px, 1fr)); 
+  gap: 10px;
+  padding: 20px;
+}
+
+.grid-header {
+  grid-column: span 3;
+  background-color: white;
+  padding: 4px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  max-height: fit-content;
+}
+
+.grid-main {
+  grid-column: span 3;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #1E1E1E;
+  color: #E0E0E0; 
+  height: fit-content;
+}
+
+.grid-main h1 {
+  font-size: 3rem;
+  color: #FFB03B; 
+}
+
+.grid-main h2 {
+  font-size: 1.5rem;
+  color: #00D4FF; 
+}
+
+/* Styling the 'name' section */
+.name {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.name h1 {
+  font-size: 4rem; 
+  color: #FFB03B; 
+  margin-bottom: 10px;
+}
+
+.name h2 {
+  font-size: 2rem;
+  color: #00D4FF; 
+  font-weight: 400;
+}
+
+/* Styling the 'introduction' section */
+.introduction {
+  text-align: center;
+  font-size: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.1); 
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.introduction p {
+  color: #B0B0B0; 
+  line-height: 1.6;
+}
+
+.grid-item {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  border-radius: 5px;
+}
+
+/* Navigation */
+.navbar {
+  grid-column: span 3fr; 
+  padding: 15px;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 20px;
+}
+
+
+.navLink {
+  cursor: pointer;
+  color: var(--text-color);
+  font-feature-settings: "aalt";
+}
+.navLink:hover {
+  text-decoration: underline;
+  color: var(--hover-color);
+}
+
+
+.avatar {
+  border-radius: 50%;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
