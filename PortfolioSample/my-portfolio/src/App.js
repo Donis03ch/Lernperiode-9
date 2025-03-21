@@ -72,7 +72,6 @@ function Skills() {
         <div className='skillSet'>
             <h2>Frontend</h2>
             <ul className='skills'>
-                <li>C#</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>JS</li>
@@ -81,6 +80,7 @@ function Skills() {
 
             <h2>Backend</h2>
             <ul className='skills'>
+                <li>C#</li>
                 <li>MSSQL</li>
                 <li>Docker</li>
             </ul>
