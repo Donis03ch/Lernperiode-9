@@ -67,6 +67,16 @@ Ich habe mir einige Erklärungen zu ReactJS angesehen. Bei einer Seite versuchte
 
 Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
-- [ ] Startseite
+- [x] Startseite
 - [ ] ...
 - [ ] ...
+
+Ich habe an der Startseite gearbeitet. Mit react konnte ich noch nicht mit viel neuem arbeiten bis jetzt (z.B. useState).
+
+## Arbeitspakete für 28.03.2025
+
+Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
+
+- [ ] starter page
+- [ ] about me
+- [ ] projects
