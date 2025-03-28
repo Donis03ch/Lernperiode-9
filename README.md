@@ -77,6 +77,6 @@ Ich habe an der Startseite gearbeitet. Mit react konnte ich noch nicht mit viel 
 
 Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
-- [ ] starter page
+- [x] starter page
 - [ ] about me
 - [ ] projects
