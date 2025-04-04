@@ -85,7 +85,9 @@ Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
 Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
-- [ ] documentation links
+- [x] documentation links
 - [ ] about me
-- [ ] contrast smoothing
+- [x] contrast smoothing
+- [x] contact me
 
+Ich habe die Github bei meinen Projekt nun verlinkt. Beim Front-page habe ich noch eine Contact me section implementiert. Sonst habe ich noch geschaut, dass die Elemente ein smoothes Aussehen haben.
