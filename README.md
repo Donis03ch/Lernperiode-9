@@ -79,4 +79,13 @@ Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
 
 - [x] starter page
 - [ ] about me
-- [ ] projects
+- [x] projects
+
+## Arbeitspakete für 04.04.2025
+
+Grobe vorstellung: personal portfolio für das Praktikum vorbereiten
+
+- [ ] documentation links
+- [ ] about me
+- [ ] contrast smoothing
+
